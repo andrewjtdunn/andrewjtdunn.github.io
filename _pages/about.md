@@ -2,14 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle:
+subtitle: Data Scientist at Garner Health · New York
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-
+    <p>New York, NY</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -25,8 +25,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Data scientist and AI engineer for the public sector. Graduate of UChicago's [Computational Analysis and Public Policy](https://harris.uchicago.edu/academics/degrees/ms-computational-analysis-public-policy-mscapp) program. Previously worked in data science and consulting in financial services and academic research. Currently a Senior Consultant Data Scientist at Guidehouse, helping government agencies use their data to improve services.
+I'm a data scientist in New York working on applied machine learning in health care. At Garner Health I build and maintain the methodology behind provider recommendations and member search — the systems that help people find better doctors.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Before Garner I was a Senior Consultant Data Scientist at Guidehouse, integrating project management, data science, and AI solutions to solve client technical challenges. I hold an MS in [Computational Analysis and Public Policy](https://harris.uchicago.edu/academics/degrees/ms-computational-analysis-public-policy-mscapp) from the University of Chicago, a joint program of the Harris School of Public Policy and the Department of Computer Science.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Prior to graduate school I spent five years at the [Financial Health Network](https://finhealthnetwork.org/), ultimately as Senior Manager of Data, where I led the Financial Health Pulse — a nationally representative longitudinal study of Americans' financial health — and co-authored its annual trends reports.
+
+My work sits where measurement meets the public interest: evaluating programs, building data pipelines, and translating quantitative results for the people who have to make decisions with them.

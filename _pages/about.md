@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Applied Data Scientist
+subtitle: Data Scientist
 
 profile:
   align: right
@@ -24,9 +24,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm a data scientist in New York working on applied machine learning in health care. At Garner Health I build and maintain the methodology behind provider recommendations and member search — the systems that help people find better doctors.
+I'm a data scientist in New York working on applied problems in health care. At [Garner Health](https://garnerhealth.com/) I build and maintain the methodology behind provider recommendations and member search — the systems that help people find better doctors.
 
-Before Garner I was a Senior Consultant Data Scientist at Guidehouse, integrating project management, data science, and AI solutions to solve client technical challenges. I hold an MS in [Computational Analysis and Public Policy](https://harris.uchicago.edu/academics/degrees/ms-computational-analysis-public-policy-mscapp) from the University of Chicago, a joint program of the Harris School of Public Policy and the Department of Computer Science.
+Before Garner I was a Senior Data Scientist Consultant at Guidehouse, integrating project management, data science, and AI solutions to solve client technical challenges. I hold an MS in [Computational Analysis and Public Policy](https://harris.uchicago.edu/academics/degrees/ms-computational-analysis-public-policy-mscapp) from the University of Chicago, a joint program of the Harris School of Public Policy and the Department of Computer Science.
 
 Prior to graduate school I spent five years at the [Financial Health Network](https://finhealthnetwork.org/), ultimately as Senior Manager of Data, where I led the Financial Health Pulse — a nationally representative longitudinal study of Americans' financial health — and co-authored its annual trends reports.
 
